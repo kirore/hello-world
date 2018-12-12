@@ -1,3 +1,2 @@
 # hello-world
-
-This is the beginning！
+the beginning
